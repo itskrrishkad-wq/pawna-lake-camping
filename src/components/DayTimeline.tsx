@@ -156,6 +156,7 @@ export default function DayTimeline() {
                       fill
                       sizes="(min-width: 1024px) 40vw, 100vw"
                       className="object-cover transition-[filter] duration-500 hover:brightness-110"
+                      unoptimized
                     />
                     <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
                   </div>
